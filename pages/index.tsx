@@ -32,7 +32,7 @@ return(
   <p><p>リモートで追加と競合</p></p>
   <p>test→mainの順 更新しないとエラー</p>
   <p>mainの更新分だけpullで大丈夫だと</p>
-  <p>testが最新 </p>
+  <p>testが最新1111 </p>
   {state.map(e=>(
     <div>
     {/* <p>{e.id}</p>
