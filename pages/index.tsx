@@ -32,6 +32,7 @@ return(
   <p>aaaaaaa</p>
   <p>mainからpushしてみる</p>
     リモート更新11
+    こっちが最新
     
   {state.map(e=>(
     <div>
