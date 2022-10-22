@@ -14,7 +14,7 @@ export const ApiData:FC<Data>=(y)=>{
 
     const{id,name,age,weight}=y
 
-
+111111
 
     return(
 <>
