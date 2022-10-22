@@ -30,6 +30,7 @@ return(
   <>
   <h1>TSの練習</h1>
   <p><p>リモートで追加と競合</p></p>
+  <p>test→mainの順 更新しないとエラー</p>
   {state.map(e=>(
     <div>
     {/* <p>{e.id}</p>
