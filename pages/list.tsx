@@ -13,6 +13,7 @@ return(
 <ul>
     <li>
         <p>太刀つてと</p>
+        <p>kkkkkkkkk</p>
     </li>
     <li>
         <p>{state2}</p>
