@@ -29,6 +29,7 @@ axios.get<Data[]>('api/hello')
 return(
   <>
   <h1>TSの練習</h1>
+  <p>aaaaaaa</p>
   {state.map(e=>(
     <div>
     {/* <p>{e.id}</p>
