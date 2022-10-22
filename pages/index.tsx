@@ -31,6 +31,7 @@ return(
   <h1>TSの練習</h1>
   <p>aaaaaaa</p>
   <p>bbbbbbb</p>
+  <p>ccccccc</p>
   {state.map(e=>(
     <div>
     {/* <p>{e.id}</p>
