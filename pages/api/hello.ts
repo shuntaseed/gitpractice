@@ -14,7 +14,7 @@ export default function handler(
       name: "神童",
       age: 20,
     },
-    { id: 2, name: "小川222", age: 26 },
+    { id: 2, name: "小川9999", age: 26 },
     { id: 3, name: "たかみ", age: 40,weight:['80','90'] },
   ]);
 
