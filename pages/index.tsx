@@ -33,6 +33,7 @@ return(
   <p>test→mainの順 更新しないとエラー</p>
   <p>mainの更新分だけpullで大丈夫だと</p>
   <p>testが最新bbbbb </p>
+    22222222
   {state.map(e=>(
     <div>
     {/* <p>{e.id}</p>
