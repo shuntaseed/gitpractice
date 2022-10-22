@@ -31,7 +31,8 @@ return(
   <h1>TSの練習</h1>
   <p>aaaaaaa</p>
   <p>mainからpushしてみる</p>
-    リモート更新1
+    リモート更新11
+    
   {state.map(e=>(
     <div>
     {/* <p>{e.id}</p>
